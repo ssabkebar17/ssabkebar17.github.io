@@ -1,0 +1,23 @@
+
+          
+ul{
+     line-height: 20px;
+   
+}
+ol{
+     line-height: 20px;  
+}
+h1,h2{
+     color:green
+}
+img{
+     height: 120px;
+}
+body{
+     background-color:#585648;
+     color: bisque;
+}
+span{
+  font-style: italic;
+  color:aquamarine;
+}
